@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_201">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jakarta.activation-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/javax.xml.bind.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jaxb-core-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jaxb-impl-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jaxb-jxc-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jaxb-xjc-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/jta-1_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/jarFiles/servlet-api.jar" sourcepath="/Product_Details"/>
+	<classpathentry exported="true" kind="lib" path="F:/hibernate-release-5.2.12.Final/lib/required/hibernate-core-5.2.12.Final.jar"/>
+	<classpathentry kind="src" path="/HibernateConfig"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
